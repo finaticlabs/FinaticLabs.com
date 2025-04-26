@@ -65,6 +65,9 @@ export default function Navigation() {
             </Link>
           </div>
         </div>
+        <Link href="/products" className="text-sm text-white/80 hover:text-white transition-colors">
+          Products
+        </Link>
         <Link href="/about" className="text-sm text-white/80 hover:text-white transition-colors">
           About Us
         </Link>
@@ -119,6 +122,13 @@ export default function Navigation() {
             </Link>
           </div>
         </div>
+        <Link 
+          href="/products" 
+          className="text-lg text-white/80 hover:text-white transition-colors"
+          onClick={() => setIsMobileMenuOpen(false)}
+        >
+          Products
+        </Link>
         <Link 
           href="/about" 
           className="text-lg text-white/80 hover:text-white transition-colors"

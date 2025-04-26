@@ -4,7 +4,31 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
 
 ## Changelog
 
-### Version 2.4.2 (Latest)
+### Version 2.5.2 (Latest - Pending Approval)
+- Further refined Products page content:
+  - Removed Document Management feature from Financial Utility and Credit Kit
+  - Reduced to two core features per product for simplicity
+  - Enhanced focus on primary product capabilities
+  - Maintained consistent layout and styling
+
+### Version 2.5.1 (Pending Approval)
+- Refined Products page content:
+  - Removed Financial Calculators feature from Financial Utility and Credit Kit
+  - Removed Predictive Analytics feature from Reports and Analytics Workflow
+  - Streamlined product offerings for clarity and focus
+  - Maintained consistent design and layout
+
+### Version 2.5.0 (Pending Approval)
+- Added dedicated Products page:
+  - Created new route at `/products`
+  - Added Products link to navigation menu (desktop and mobile)
+  - Developed detailed product showcase for two core offerings:
+    - Financial Utility and Credit Kit with feature highlights
+    - Reports and Analytics Workflow with feature highlights
+  - Implemented consistent design with background video
+  - Added Request Demo call-to-action
+
+### Version 2.4.2
 - Enhanced job card visibility on Jobs page:
   - Increased card background opacity from 40% to 60%
   - Improved backdrop blur effect for better content readability
