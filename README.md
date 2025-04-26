@@ -4,6 +4,14 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
 
 ## Changelog
 
+### Version 2.5.3 (Latest - Pending Approval)
+- Improved Products page layout:
+  - Changed layout to display products side by side on larger screens
+  - Increased maximum width of content container for better horizontal spacing
+  - Added responsive grid system with 2 columns on desktop and 1 column on mobile
+  - Maintained vertical feature list for each product
+  - Enhanced overall visual balance and comparison between products
+
 ### Version 2.5.2 (Latest - Pending Approval)
 - Further refined Products page content:
   - Removed Document Management feature from Financial Utility and Credit Kit
