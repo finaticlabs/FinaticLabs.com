@@ -4,7 +4,14 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
 
 ## Changelog
 
-### Version 2.5.3 (Latest - Pending Approval)
+### Version 2.5.4 (Latest - Pending Approval)
+- Updated Reports and Analytics Workflow product feature:
+  - Refined Customizable Dashboards description
+  - Removed drag-and-drop interface reference
+  - Added emphasis on flexible data visualization capabilities
+  - Highlighted ability to visualize any data in any form
+
+### Version 2.5.3 (Pending Approval)
 - Improved Products page layout:
   - Changed layout to display products side by side on larger screens
   - Increased maximum width of content container for better horizontal spacing

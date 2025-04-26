@@ -90,7 +90,7 @@ export default function ProductsPage() {
                 <div className="bg-black/40 p-5 rounded-xl border border-white/10">
                   <h3 className="text-xl text-white/90 font-medium mb-3">Customizable Dashboards</h3>
                   <p className="text-white/70">
-                    Build tailored dashboards with drag-and-drop interfaces to monitor key performance indicators in real-time.
+                    Build tailored dashboards to monitor key performance indicators in real-time with the ability to visualize any data in any form.
                   </p>
                 </div>
                 
