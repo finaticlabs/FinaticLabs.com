@@ -239,6 +239,9 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
   - Google Sheets integration for responses
 - Improved mobile responsiveness
 - Added loading states for better UX
+- Added Community page with placeholder content
+- Added Community link to both desktop and mobile navigation menus
+- Positioned Community link before "Join the Waitlist" button in navigation
 
 ### Version 1.0
 - Initial website launch with:
