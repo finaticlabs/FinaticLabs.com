@@ -4,6 +4,21 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
 
 ## Changelog
 
+### Version 2.6.1 (Latest - Pending Approval)
+- Enhanced Community page visual design:
+  - Changed "Technology Insights" heading color from white to primary color
+  - Improved heading visibility and visual hierarchy
+  - Better alignment with the site's overall design language
+
+### Version 2.6.0 (Latest - Pending Approval)
+- Added Technology Blog in Community section:
+  - Created minimal and modern blog page design
+  - Added three initial blog posts about technology trends
+  - Implemented dynamic routing for blog posts
+  - Added BlogCard component for consistent post previews
+  - Topics cover AI in finance, green blockchain, and healthcare IoT
+  - Responsive design with dark mode optimization
+
 ### Version 2.5.4 (Latest - Pending Approval)
 - Updated Reports and Analytics Workflow product feature:
   - Refined Customizable Dashboards description
