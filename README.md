@@ -5,10 +5,10 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
 ## Changelog
 
 ### Version 2.6.1 (Latest - Pending Approval)
-- Enhanced Community page visual design:
-  - Changed "Technology Insights" heading color from white to primary color
-  - Improved heading visibility and visual hierarchy
-  - Better alignment with the site's overall design language
+- Fixed Community page heading visibility issue:
+  - Changed "Technology Insights" heading from Tailwind text-white class to inline style
+  - Applied bright white color (#ffffff) directly to ensure maximum visibility
+  - Improved contrast and readability of the main heading
 
 ### Version 2.6.0 (Latest - Pending Approval)
 - Added Technology Blog in Community section:
