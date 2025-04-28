@@ -56,16 +56,23 @@ export default function ProductsPage() {
               
               <div className="grid grid-cols-1 gap-6 mb-6">
                 <div className="bg-black/40 p-5 rounded-xl border border-white/10">
-                  <h3 className="text-xl text-white/90 font-medium mb-3">Credit Assessment</h3>
+                  <h3 className="text-xl text-white/90 font-medium mb-3">Advanced AI Engine</h3>
                   <p className="text-white/70">
-                    Advanced algorithms for risk evaluation and credit scoring tailored to your specific lending criteria.
+                    Cutting-edge machine learning algorithms that adapt to your business needs, providing intelligent credit scoring and fraud detection capabilities.
                   </p>
                 </div>
                 
                 <div className="bg-black/40 p-5 rounded-xl border border-white/10">
-                  <h3 className="text-xl text-white/90 font-medium mb-3">Loan Processing</h3>
+                  <h3 className="text-xl text-white/90 font-medium mb-3">Secure Database Architecture</h3>
                   <p className="text-white/70">
-                    End-to-end digital loan processing system with application tracking, verification, and approval workflows.
+                    Enterprise-grade database solutions with redundant backups, ensuring your financial data remains intact, available, and properly structured at all times.
+                  </p>
+                </div>
+                
+                <div className="bg-black/40 p-5 rounded-xl border border-white/10">
+                  <h3 className="text-xl text-white/90 font-medium mb-3">Robust Security Framework</h3>
+                  <p className="text-white/70">
+                    End-to-end encryption, multi-factor authentication, and comprehensive audit trails to protect sensitive financial information and ensure regulatory compliance.
                   </p>
                 </div>
               </div>
