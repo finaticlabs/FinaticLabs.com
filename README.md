@@ -4,6 +4,9 @@ This is the official website for Finatic Labs, a comprehensive software suite fo
 
 ## Changelog
 
+> **Development Branches**:  
+> - `feature/community-blog`: Contains all Technology Insights blog page implementation including BlogCard component, dynamic routing, and heading style fixes.
+
 ### Version 2.6.1 (Latest - Pending Approval)
 - Fixed Community page heading visibility issue:
   - Changed "Technology Insights" heading from Tailwind text-white class to inline style
